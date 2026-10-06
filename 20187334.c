@@ -1,3 +1,13 @@
+/****************************************************/
+/* Programacion para mecatronicos                   */
+/* Nombre: David Mireles Mateo                      */
+/* Matricula: 2018-7334                              */
+/* Seccion: Miercoles                                 */
+/* Practica: Primer Parcial                         */
+/* Fecha: 06/10/2026                                */
+/* Link Practica: https://github.com/David030899/parcial-c-20187334 */
+/****************************************************/
+
 #include <stdio.h>
 
 int main(void) {
